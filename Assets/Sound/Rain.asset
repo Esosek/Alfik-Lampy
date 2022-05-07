@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94f7232d1798be429b9f8807ee6cf26, type: 3}
+  m_Name: Rain
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 96000abbbbd87b14e8adeda004de4772, type: 3}
+  volume: 0.15
+  pitch: 1
+  loop: 1
+  mixerGroup: {fileID: 24300002, guid: 3686e2411e3144335b7443eb19573e40, type: 2}
+  source: {fileID: 0}
